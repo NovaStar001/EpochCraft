@@ -1,0 +1,10 @@
+{
+  "votes": [
+    { "name": "He should be a mod", "votes": 0 },
+    { "name": "He shouldn't be a mod", "votes": 0 },
+    { "name": "He should be a mod, with limitations", "votes": 0 },
+    { "name": "No opinion", "votes": 0 },
+    { "name": "Other", "votes": 0 }
+  ],
+  "voters": []
+}
